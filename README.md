@@ -1,4 +1,4 @@
-# 🌿 Nature-Glide
+# 🌿 Nature Glide
 
 A clean and responsive web app designed to help you effortlessly explore and enjoy the beauty of nature. Built with HTML, CSS, and JavaScript, Nature-Glide offers a simple and intuitive interface for browsing stunning natural landscapes, wildlife, and outdoor spots.
 
